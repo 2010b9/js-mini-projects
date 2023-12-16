@@ -8,4 +8,8 @@ https://github.com/2010b9/js-mini-projects/assets/58912923/e5640ae2-64ff-4174-97
 
 ## Modal window
 
+https://github.com/2010b9/js-mini-projects/assets/58912923/0ff6d26d-1b61-4d17-a18a-1f1e6aca3120
+
 ## Pig Game
+
+https://github.com/2010b9/js-mini-projects/assets/58912923/2850833d-b6ec-46ae-adee-b351f19e2775
